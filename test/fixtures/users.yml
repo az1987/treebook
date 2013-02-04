@@ -1,7 +1,11 @@
-aaron:
-first_name: "Aaron"
-last_name: "Pate"
-email: "pateaaron@hotmail.co.uk"
-profile_name: "az1987"
-password: "password1"
-password_confirmation: "password1"
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
